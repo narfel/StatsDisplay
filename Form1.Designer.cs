@@ -444,7 +444,7 @@
             label1.Name = "label1";
             label1.Size = new Size(108, 15);
             label1.TabIndex = 1;
-            label1.Text = "StatsDisplay v1.01";
+            label1.Text = "StatsDisplay v1.02";
             // 
             // linkLabel1
             // 

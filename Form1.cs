@@ -775,7 +775,8 @@ namespace StatsDisplay
                 td.Triggers.Add(trigger);
 
                 //get app location
-                string appPath = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location)!;
+                //string appPath = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location)!;
+                string appPath = AppContext.BaseDirectory;
                 string programPath = System.IO.Path.Combine(appPath, "StatsDisplay.exe");
 
                 // create action when the trigger fires

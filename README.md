@@ -1,6 +1,6 @@
 # StatsDisplay
 
-[![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/narfel/StatsDisplay/blob/master/README.md)
+[![GitHub version](https://img.shields.io/badge/version-v1.0.2-blue.svg)](https://github.com/narfel/StatsDisplay/blob/master/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/narfel/StatsDisplay/blob/master/LICENSE)
 
 Windows application that shows system stats on a 16x2 display
